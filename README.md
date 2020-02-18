@@ -13,7 +13,7 @@ usage:
 Add Names Of User in **user.txt** in the folder 
    then run the python Script
    
-<img src="https://i.ibb.co/y48VGgG/ezgif-com-video-to-gif-1.gif" alt="ezgif-com-video-to-gif-1" border="0">
+<img src="https://i.ibb.co/J3zC0r0/ezgif-com-video-to-gif-1.gif">
 
 
    
