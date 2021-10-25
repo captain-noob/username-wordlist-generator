@@ -19,7 +19,7 @@ Add Names Of User in **user.txt** in the folder
    
    
    
-   **Give A respect.....**
+   **Give respect.....**
 
 https://www.hackthebox.eu/profile/230707
    
